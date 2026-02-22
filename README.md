@@ -26,7 +26,7 @@ My academic and personal projects focus on **backend systems, modern web framewo
 
 **Frontend Development**
 
-* Vue.js, Nuxt.js, HTML, CSS, Bootstrap
+* Reast.js, HTML, CSS, Bootstrap
 
 **Databases**
 
@@ -41,27 +41,15 @@ My academic and personal projects focus on **backend systems, modern web framewo
 **Tools & Platforms**
 
 * Git & GitHub, IntelliJ IDEA, VS Code
-* Maven, Docker (basic), Postman
-* Cloud Storage (Google Cloud Storage)
+* Maven, Docker, Postman , Kubernetes , Kafka
 
 ---
 
 ## 📌 Featured Projects
 
-### 🌦️⚡ Smart City Weather & Energy Forecasting System
-
-**Tech Stack:** Python, Pandas, Scikit-learn, Streamlit
-
-* Built a forecasting system using government open data
-* Predicted weather patterns and electricity demand using time series models
-* Demonstrated the relationship between climate factors and energy consumption
-* Designed the project with scalability and real-world deployment in mind
-
----
-
 ### 🍱 E-Canteen Platform
 
-**Tech Stack:** Spring Boot, JPA, MySQL, Vue.js
+**Tech Stack:** Spring Boot, JPA, MySQL, Starpi
 
 * Developed an online prepaid ordering system
 * Implemented menu management, order tracking, and user feedback features
@@ -90,9 +78,20 @@ My academic and personal projects focus on **backend systems, modern web framewo
 
 ---
 
+### 🌦️⚡ Smart City Weather & Energy Forecasting System
+
+**Tech Stack:** Python, Pandas, Scikit-learn, Streamlit
+
+* Built a forecasting system using government open data
+* Predicted weather patterns and electricity demand using time series models
+* Demonstrated the relationship between climate factors and energy consumption
+* Designed the project with scalability and real-world deployment in mind
+
+---
+
 ## 📊 Academic & System Design Experience
 
-* Database design for platforms like **Spotify** and **Canva** (users, assets, templates, collaborations)
+* Database design for quiz game platform which include game characteristics and user testing.
 * API design and documentation for scalable web applications
 * Experience explaining system architecture, business logic, and code implementation
 
@@ -100,6 +99,7 @@ My academic and personal projects focus on **backend systems, modern web framewo
 
 ## 🎯 Interests
 
+* Java Developer 
 * Data Science & Machine Learning
 * Smart City & Edge Computing Applications
 * Backend Architecture & System Design
@@ -109,9 +109,8 @@ My academic and personal projects focus on **backend systems, modern web framewo
 
 ## 📫 Let's Connect
 
-* 💼 GitHub: *You are here!*
-* 🌐 Portfolio Website: *(Add link if available)*
-* ✉️ Email: *(Add your professional email)*
+* 💼 GitHub: You've found me on GitHub.
+* ✉️ Email: yoonmohmohaung@gmail.com
 
 ---
 
